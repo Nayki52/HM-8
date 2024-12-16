@@ -1,0 +1,19 @@
+.item:first-child {
+  color: cornflowerblue;
+}
+
+.item:last-child {
+  color: coral;
+}
+
+.item:nth-child(2) {
+  color: cyan;
+}
+
+.item:nth-child(3) {
+  color: red;
+}
+
+.item:nth-child(even) {
+  color: green;
+}
